@@ -1,6 +1,6 @@
 # machine_coding_round
 
-This repository agregates the files required by Hyperthink's hiring assignment.
+This repository agregates the files required to run the mini-server.
 Assuming it is run on a linux system, it requires python, curl, pip (to install the python libraries), make (to simplify the installation and execution) and the ability to create a virtual environment.
 The relevant commands are stored in the makefile.
 
